@@ -6,6 +6,8 @@ Hi 👋, I'm Cihat A passionate game developer from Turkey 🔭 I’m currently 
 
 💬 Ask me about Game Development, Unity3D
 
+🌱 I’m currently learning Unity Shaders and DOTS
+
 📫 How to reach me yigitcihat@gmail.com
 
 📄 Know about my experiences <a href="https://www.canva.com/design/DAE0yT8_TTM/lFZgc6w7MZ-UeXHYOVZvNQ/view?utm_content=DAE0yT8_TTM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Cihat_Yigit_Portfolio</a>
@@ -15,7 +17,7 @@ Hi 👋, I'm Cihat A passionate game developer from Turkey 🔭 I’m currently 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
