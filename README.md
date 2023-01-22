@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Cihat A passionate game developer from Turkey 🔭 I’m currently working on Unity Programming Design Principles
 
-<img align='right' src='https://drive.google.com/file/d/1P-nwEUqm3I1NZsCZtBk4e6LeWC1-Jo9j/view?usp=share_link' width='200"'>
+<img align='right' src='https://media.giphy.com/media/HJRglVUhu8VDIHyVxk/giphy.gif' width='200"'>
 
 👨‍💻 All of my projects are available at https://github.com/yigitcihat
 
