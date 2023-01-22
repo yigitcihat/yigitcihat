@@ -18,3 +18,11 @@ Hi 👋, I'm Cihat A passionate game developer from Turkey 🔭 I’m currently 
 <a href="https://www.linkedin.com/in/cihat-yi%C4%9Fit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigitcihat" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/39636292/165769742-c31d8302-7868-4845-82e9-4ea5ec282fd3.png" alt="unity" width="44" height="44"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> \
+</p>
+
