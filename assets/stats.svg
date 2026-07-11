@@ -1,0 +1,73 @@
+<svg width="1000" height="250" viewBox="0 0 1000 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="60%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="997" height="247" rx="14" fill="#0d1020" stroke="url(#border)" stroke-width="1.5"/>
+  <ellipse cx="500" cy="2" rx="430" ry="52" fill="#22d3ee" opacity="0.05"/>
+
+  <text x="40" y="46" font-family="Consolas, 'Courier New', monospace" font-size="21" font-weight="bold" letter-spacing="2" fill="url(#title)">&#9656; PLAYER STATS</text>
+  <rect x="858" y="26" width="102" height="26" rx="13" fill="#facc15" opacity="0.12"/>
+  <rect x="858" y="26" width="102" height="26" rx="13" fill="none" stroke="#facc15" opacity="0.45"/>
+  <text x="909" y="43" text-anchor="middle" font-family="Consolas, monospace" font-size="12" fill="#fde68a">LV. SENIOR</text>
+
+  <!-- left column: stat bars -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#8b93b8">
+    <text x="40" y="88">GAMES SHIPPED</text>
+    <text x="40" y="126">STUDIOS</text>
+    <text x="40" y="164">PLATFORMS</text>
+    <text x="40" y="202">DOWNLOADS</text>
+  </g>
+  <g>
+    <rect x="175" y="79" width="200" height="9" rx="4.5" fill="#1e2447"/>
+    <rect x="175" y="79" width="0" height="9" rx="4.5" fill="#22d3ee"><animate attributeName="width" values="0;150" dur="1s" begin="0.2s" fill="freeze"/></rect>
+    <text x="392" y="88" font-family="Consolas, monospace" font-size="13" font-weight="bold" fill="#22d3ee">9+</text>
+
+    <rect x="175" y="117" width="200" height="9" rx="4.5" fill="#1e2447"/>
+    <rect x="175" y="117" width="0" height="9" rx="4.5" fill="#a78bfa"><animate attributeName="width" values="0;80" dur="1s" begin="0.4s" fill="freeze"/></rect>
+    <text x="392" y="126" font-family="Consolas, monospace" font-size="13" font-weight="bold" fill="#a78bfa">4</text>
+
+    <rect x="175" y="155" width="200" height="9" rx="4.5" fill="#1e2447"/>
+    <rect x="175" y="155" width="0" height="9" rx="4.5" fill="#f472b6"><animate attributeName="width" values="0;120" dur="1s" begin="0.6s" fill="freeze"/></rect>
+    <text x="392" y="164" font-family="Consolas, monospace" font-size="13" font-weight="bold" fill="#f472b6">4</text>
+
+    <rect x="175" y="193" width="200" height="9" rx="4.5" fill="#1e2447"/>
+    <rect x="175" y="193" width="0" height="9" rx="4.5" fill="#facc15"><animate attributeName="width" values="0;200" dur="1.2s" begin="0.8s" fill="freeze"/></rect>
+    <text x="392" y="202" font-family="Consolas, monospace" font-size="13" font-weight="bold" fill="#facc15">1M+</text>
+  </g>
+
+  <line x1="455" y1="34" x2="455" y2="216" stroke="#1e2447" stroke-width="1.5"/>
+
+  <!-- right column: character sheet -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#8b93b8">
+    <text x="500" y="88">CLASS</text>
+    <text x="500" y="126">GUILD</text>
+    <text x="500" y="164">SPEC</text>
+    <text x="500" y="202">SKILLS</text>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#e8ebff">
+    <text x="590" y="88">Senior Game Developer</text>
+    <text x="590" y="126">Brok Games</text>
+    <text x="590" y="164">Multiplayer &#183; Photon Fusion 2</text>
+  </g>
+  <rect x="590" y="193" width="330" height="10" rx="5" fill="#1e2447"/>
+  <rect x="590" y="193" width="0" height="10" fill="#22d3ee"><animate attributeName="width" values="0;198" dur="0.8s" begin="0.3s" fill="freeze"/></rect>
+  <rect x="788" y="193" width="0" height="10" fill="#a78bfa"><animate attributeName="width" values="0;82" dur="0.6s" begin="0.9s" fill="freeze"/></rect>
+  <rect x="870" y="193" width="0" height="10" fill="#f472b6"><animate attributeName="width" values="0;50" dur="0.5s" begin="1.3s" fill="freeze"/></rect>
+
+  <g font-family="Consolas, monospace" font-size="10" fill="#8b93b8">
+    <rect x="590" y="213" width="8" height="8" fill="#22d3ee"/>
+    <text x="603" y="221">C#</text>
+    <rect x="640" y="213" width="8" height="8" fill="#a78bfa"/>
+    <text x="653" y="221">ShaderLab</text>
+    <rect x="735" y="213" width="8" height="8" fill="#f472b6"/>
+    <text x="748" y="221">HLSL</text>
+  </g>
+</svg>

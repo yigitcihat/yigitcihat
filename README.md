@@ -49,11 +49,10 @@
 
 <br/>
 
-## 📊 Stats
+## 📊 Player Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yigitcihat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1020&title_color=a78bfa&icon_color=22d3ee" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitcihat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1020&title_color=a78bfa&exclude_repo=backend-demo-laravel,cihat-portfolio&langs_count=6" alt="Top languages" />
+  <img src="assets/stats.svg" width="100%" alt="Player stats — 9+ games shipped, 4 studios, millions of downloads" />
 </div>
 
 <br/>
