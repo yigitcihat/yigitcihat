@@ -1,36 +1,72 @@
-### Hi there 👋
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Cihat Yigit — Game Developer" />
+</div>
 
-Hi 👋, I'm Cihat A passionate game developer from Turkey 🔭 I’m currently working on Unity Programming Design Principles
+<br/>
 
-<img align='right' src='https://media.giphy.com/media/SiLqeD2w4kYXi64FQr/giphy.gif' width='150"'>
+## 🕹️ About Me
 
-👨‍💻 All of my projects are available at  <a href="https://github.com/yigitcihat">Projects</a>
+- 🎮 Game developer from **Istanbul**, building games and interactive experiences with **Unity**
+- 🌱 Currently diving deep into **Unity Shaders** and **DOTS**
+- 🧠 Interested in **programming design principles** and writing clean, scalable gameplay code
+- 💬 Ask me about **Game Development** and **Unity3D**
 
-💬 Ask me about Game Development, Unity3D
+<br/>
 
-🌱 I’m currently learning Unity Shaders and DOTS
+## ⚔️ Tech Arsenal
 
-📫 How to reach me yigitcihat@gmail.com
-
-📄 Know about my experiences <a href="https://www.canva.com/design/DAE0yT8_TTM/lFZgc6w7MZ-UeXHYOVZvNQ/view?utm_content=DAE0yT8_TTM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Cihat_Yigit_Portfolio</a>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cihat-yi%C4%9Fit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigitcihat" height="30" width="40" /></a>     <a href="https://discordapp.com/users/Cihat#9122" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ShaderLab%20%2F%20HLSL-a78bfa?style=for-the-badge&logoColor=white" alt="ShaderLab / HLSL" />
+  <img src="https://img.shields.io/badge/DOTS-22d3ee?style=for-the-badge&logoColor=white" alt="Unity DOTS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
+<p>
+  <sub>also dabbling in backend:</sub>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+<br/>
 
+## 🎮 Featured Projects
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/39636292/165769742-c31d8302-7868-4845-82e9-4ea5ec282fd3.png" alt="unity" width="44" height="44"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<p>
+  <a href="https://github.com/yigitcihat/Holy_Crab_IK_Project"><img src="assets/card-crab.svg" width="49%" alt="Holy Crab — procedural IK crab" /></a>
+  <a href="https://github.com/yigitcihat/Vidow"><img src="assets/card-vidow.svg" width="49%" alt="Vidow — Unity video downloader" /></a>
+</p>
+<p>
+  <a href="https://github.com/yigitcihat/2DStrategy_Game_example"><img src="assets/card-strategy.svg" width="49%" alt="2D Strategy Game — RTS demo" /></a>
+  <a href="https://github.com/yigitcihat/VR_GlassPulling"><img src="assets/card-vr.svg" width="49%" alt="VR GlassPulling — VR mini-games" /></a>
 </p>
 
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yigitcihat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1020&title_color=a78bfa&icon_color=22d3ee" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitcihat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1020&title_color=a78bfa&exclude_repo=backend-demo-laravel,cihat-portfolio&langs_count=6" alt="Top languages" />
+</div>
+
+<br/>
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cihat-yi%C4%9Fit/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yigitcihat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.canva.com/design/DAE0yT8_TTM/lFZgc6w7MZ-UeXHYOVZvNQ/view">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="assets/footer.svg" width="100%" alt="" />
+</div>
